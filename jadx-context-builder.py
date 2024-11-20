@@ -42,7 +42,7 @@ class JadxContextGenerator:
 
         self.output_dir = "decompiled_output"
 
-        self.MAX_TOKENS = 175000
+        self.MAX_TOKENS = 100000
 
         self.index_db = "jadx_index.db"
 
